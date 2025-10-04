@@ -10,6 +10,7 @@
 2. [Foundamentals - Identifiers, Keywords, Variables, Datatypes, Operators](https://github.com/ducsiukap/go-basic/tree/main/go001_vars_dtypes_ops)
 3. [Decision makings - If-Else, Switch-Case, Loops](https://github.com/ducsiukap/go-basic/tree/main/go002_decision_makings)
 4. [Function, method](https://github.com/ducsiukap/go-basic/tree/main/go003_functions)
+5. [Struct](https://github.com/ducsiukap/go-basic/tree/main/go004_structures)
 
 #
 
