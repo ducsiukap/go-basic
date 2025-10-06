@@ -12,6 +12,7 @@
 4. [Function, method](https://github.com/ducsiukap/go-basic/tree/main/go003_functions)
 5. [Struct](https://github.com/ducsiukap/go-basic/tree/main/go004_structures)
 6. [Arrays & Slice](https://github.com/ducsiukap/go-basic/tree/main/go005_arrays_slices)
+7. [Strings](https://github.com/ducsiukap/go-basic/tree/main/go006_strings)
 
 #
 
