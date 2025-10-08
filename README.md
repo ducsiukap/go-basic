@@ -16,6 +16,7 @@
 8. [Pointers](https://github.com/ducsiukap/go-basic/tree/main/go007_pointers)
 9. [Interfaces](https://github.com/ducsiukap/go-basic/tree/main/go008_interfaces)
 10. [Concurrency](https://github.com/ducsiukap/go-basic/tree/main/go009_concurrency)
+11. [Networking - TCP, UDP, HTTP](https://github.com/ducsiukap/go-basic/tree/main/go010_networking)
 
 #
 
